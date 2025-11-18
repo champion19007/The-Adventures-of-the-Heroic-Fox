@@ -1,7 +1,12 @@
-# Game Off 2022
-<h3>itch.io Link</h3>
+
 <p>
-You can play the game here: https://krasi0707.itch.io/the-adventures-of-the-heroic-fox
+You can Download the game here: 
+	
+
+[![Download for Linux](https://img.shields.io/badge/Download-Linux-green?style=for-the-badge)](https://drive.google.com/file/d/1gPn-M_vG48ojPtMWfk0SIHozy6IwUlAN/view?usp=drive_link)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge)](https://drive.google.com/file/d/1b_kurnavnWjDZzYEDP30G_qsFv9KITz8/view?usp=drive_link)
+
+
 </p>
 <h3>Description</h3>
 <p>
@@ -14,10 +19,4 @@ Turn-based strategy game where you don't get to pick the actions you take but ha
 <img src="https://img.itch.zone/aW1hZ2UvMTgxNjkyOS8xMDY2NzgzMy5wbmc=/original/toNF%2FM.png" alt="Screenshot 3" width="320" height="180">
 <img src="https://img.itch.zone/aW1hZ2UvMTgxNjkyOS8xMDY2NzgzNS5wbmc=/original/1gbIzt.png" alt="Screenshot 4" width="320" height="180">
 </div>
-<h3>Credits</h3>
-<ul>
-<li><strong>Design, Programming & Writing</strong> - <a href="https://krasi0707.itch.io/">Krasimir Balchev</a> a.k.a. krasi0707</li>
-<li><strong>Design & Art</strong> - <a href="https://www.youtube.com/channel/UC6AEAig50WUnBEk5hVkhHbg">poopie</a></li>
-<li><strong>Music</strong> - <a href="https://www.instagram.com/doup_loa_plus/">Jaedan Calladine</a></li>
-<li><strong>Sound Effects</strong> - <a href="https://freesound.org/people/n_audioman/sounds/325477/" target="_blank">ego down/whimper</a>, <a href="https://freesound.org/people/Planman/sounds/208111/" target="_blank">action poof</a>,&nbsp;<a href="https://www.instagram.com/noxsounddesign/" target="_blank">Damien Combe/Nox Sound Design</a> (everything else)</li>
-</ul>
+
