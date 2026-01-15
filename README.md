@@ -9,7 +9,7 @@ You can Download the game here:
 [![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge)](https://drive.google.com/file/d/1SKNXwOvW191F1sm4WwdXEnWW2cKz14F-/view?usp=drive_link)
 
 
-[![Watch Demo on YouTube](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/RxbQeCw4RO0)
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/pwUCw95k8yU)
 
 </p>
 <h3>Description</h3>
